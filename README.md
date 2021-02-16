@@ -1,4 +1,4 @@
-# gigadocking_notebooks
+# Gigadocking analysis
 
 Collect colab notebooks for Gigadocking analysis
 
