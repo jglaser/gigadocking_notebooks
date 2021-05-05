@@ -11,7 +11,6 @@ into a virtual environment before launching the Jupyter notebook server.
  - `ML.ipynb`: Testing scoring functions on experimental data
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jglaser/gigadocking_notebooks/blob/main/ML.ipynb)
    
--  
 - `Analysis_of_Moonshot_structures.ipynb`: Analysis of [Moonshot](https://postera.ai) experimental structures
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jglaser/gigadocking_notebooks/blob/main/Analysis_of_Moonshot_structures.ipynb)
 
